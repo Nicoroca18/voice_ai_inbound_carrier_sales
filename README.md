@@ -23,7 +23,7 @@ Built as part of the **HappyRobot technical challenge**.
 - Secure, containerized deployment  
 
 --- 
-
+ 
 ## System Architecture
 
 The system consists of three main components:
