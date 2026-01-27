@@ -22,7 +22,7 @@ Built as part of the **HappyRobot technical challenge**.
 - Real-time metrics and dashboard visualization  
 - Secure, containerized deployment  
 
----
+--- 
 
 ## System Architecture
 
