@@ -28,7 +28,7 @@ ENABLE_NLP = os.getenv("ENABLE_NLP", "true").lower() == "true"
 # -------------------------
 # App & Stores
 # -------------------------
-app = FastAPI(title="HappyRobot - Inbound Carrier API (V15 Dashboard+)")
+app = FastAPI(title="HappyRobot - Inbound Carrier API (V15 Dashboard+)") 
 
 negotiations: Dict[str, Dict[str, Any]] = {}     # key = f"{mc}:{load_id}"
 call_results: List[Dict[str, Any]] = []          # para dashboard
