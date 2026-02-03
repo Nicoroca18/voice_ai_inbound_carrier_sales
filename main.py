@@ -16,7 +16,7 @@ from pydantic import BaseModel
 API_KEY = os.getenv("API_KEY", "test-api-key")
 
 FMCSA_WEBKEY = os.getenv("FMCSA_WEBKEY", "")
-FMCSA_BASE_URL = "https://mobile.fmcsa.dot.gov/qc/services/" 
+FMCSA_BASE_URL = "https://mobile.fmcsa.dot.gov/qc/services/"  
 
 LOADS_FILE = os.getenv("LOADS_FILE", "./data/loads.json")
 MAX_OVER_PCT = float(os.getenv("MAX_OVER_PCT", "0.10"))  # techo = board * (1 + 10%)
