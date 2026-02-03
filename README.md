@@ -7,7 +7,7 @@ The system autonomously handles inbound carrier calls: authenticating carriers, 
 
 It replicates the full workflow of a human carrier sales agent, combining **voice AI**, **backend decision logic**, and **live analytics** into a production-ready proof of concept.
 
-Built as part of the **HappyRobot technical challenge**.
+Built as part of the **HappyRobot technical challenge**. 
 
 ---
  
